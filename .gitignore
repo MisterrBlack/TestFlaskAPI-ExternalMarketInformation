@@ -1,0 +1,9 @@
+*.Rproj
+*.txt
+*.xlsx
+.Rhistory
+/Archive/*
+# ignore jupyter checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*.ipynb
+__pycache__

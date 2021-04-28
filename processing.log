@@ -1,0 +1,604 @@
+INFO - 2021-03-08 14:40:20 - Starting to collect all stock prices.
+ERROR - 2021-03-08 15:03:00 - Error occured while trying to get quote data for the Company: Mitsubishi Corp - with the Symbol: MSBHY
+INFO - 2021-03-08 15:03:00 - Could not get any stock prices for the Company: Mitsubishi Corp - with the Symbol: MSBHY
+INFO - 2021-03-08 15:14:38 - Finished collecting all stock prices.
+INFO - 2021-03-22 09:52:40 - Starting to collect all stock prices.
+ERROR - 2021-03-22 09:53:08 - Error occured while trying to get quote data for the Company: AGCO Group - with the Symbol: AGJ.STG
+INFO - 2021-03-22 09:53:08 - Could not get any stock prices for the Company: AGCO Group - with the Symbol: AGJ.STG
+ERROR - 2021-03-22 09:53:20 - Error occured while trying to get quote data for the Company: AGCO Group - with the Symbol: AGJ.BER
+INFO - 2021-03-22 09:53:20 - Could not get any stock prices for the Company: AGCO Group - with the Symbol: AGJ.BER
+ERROR - 2021-03-22 09:53:33 - Error occured while trying to get quote data for the Company: AGCO Group - with the Symbol: AGJ.DUS
+INFO - 2021-03-22 09:53:33 - Could not get any stock prices for the Company: AGCO Group - with the Symbol: AGJ.DUS
+ERROR - 2021-03-22 09:53:46 - Error occured while trying to get quote data for the Company: AGCO Group - with the Symbol: AGJ.MUN
+INFO - 2021-03-22 09:53:46 - Could not get any stock prices for the Company: AGCO Group - with the Symbol: AGJ.MUN
+ERROR - 2021-03-22 09:53:59 - Error occured while trying to get quote data for the Company: Airbus Group - with the Symbol: AIR.BER
+INFO - 2021-03-22 09:53:59 - Could not get any stock prices for the Company: Airbus Group - with the Symbol: AIR.BER
+ERROR - 2021-03-22 09:54:24 - Error occured! Could not get stock prices for the Company: Airbus Group - with the Symbol: EADSY
+ERROR - 2021-03-22 09:54:37 - Error occured! Could not get stock prices for the Company: Airbus Group - with the Symbol: EADSF
+ERROR - 2021-03-22 09:55:18 - Error occured while trying to get quote data for the Company: Airbus Group - with the Symbol: 0P0000K7GH.FRK
+INFO - 2021-03-22 09:55:18 - Could not get any stock prices for the Company: Airbus Group - with the Symbol: 0P0000K7GH.FRK
+ERROR - 2021-03-22 09:55:31 - Error occured while trying to get quote data for the Company: Airbus Group - with the Symbol: AIRA.STG
+INFO - 2021-03-22 09:55:31 - Could not get any stock prices for the Company: Airbus Group - with the Symbol: AIRA.STG
+ERROR - 2021-03-22 09:55:44 - Error occured while trying to get quote data for the Company: Airbus Group - with the Symbol: 0KVV.ILN
+INFO - 2021-03-22 09:55:44 - Could not get any stock prices for the Company: Airbus Group - with the Symbol: 0KVV.ILN
+ERROR - 2021-03-22 09:56:23 - Error occured while trying to get quote data for the Company: Allison Transmission - with the Symbol: 1A7.STG
+INFO - 2021-03-22 09:56:23 - Could not get any stock prices for the Company: Allison Transmission - with the Symbol: 1A7.STG
+ERROR - 2021-03-22 09:57:15 - Error occured while trying to get quote data for the Company: Alstom - with the Symbol: AOMD.HAM
+INFO - 2021-03-22 09:57:15 - Could not get any stock prices for the Company: Alstom - with the Symbol: AOMD.HAM
+ERROR - 2021-03-22 09:57:29 - Error occured while trying to get quote data for the Company: Alstom - with the Symbol: ALOG0.PAR
+INFO - 2021-03-22 09:57:29 - Could not get any stock prices for the Company: Alstom - with the Symbol: ALOG0.PAR
+ERROR - 2021-03-22 09:57:42 - Error occured while trying to get quote data for the Company: Alstom - with the Symbol: ALSO.VIE
+INFO - 2021-03-22 09:57:42 - Could not get any stock prices for the Company: Alstom - with the Symbol: ALSO.VIE
+ERROR - 2021-03-22 09:57:54 - Error occured while trying to get quote data for the Company: Alstom - with the Symbol: 0J2R.ILN
+INFO - 2021-03-22 09:57:54 - Could not get any stock prices for the Company: Alstom - with the Symbol: 0J2R.ILN
+ERROR - 2021-03-22 09:58:07 - Error occured while trying to get quote data for the Company: Alstom - with the Symbol: AOMU.BER
+INFO - 2021-03-22 09:58:07 - Could not get any stock prices for the Company: Alstom - with the Symbol: AOMU.BER
+ERROR - 2021-03-22 10:00:18 - Error occured while trying to get quote data for the Company: Austal - with the Symbol: ASB.AUS
+INFO - 2021-03-22 10:00:18 - Could not get any stock prices for the Company: Austal - with the Symbol: ASB.AUS
+ERROR - 2021-03-22 10:00:31 - Error occured while trying to get quote data for the Company: Austal - with the Symbol: LX6.STG
+INFO - 2021-03-22 10:00:31 - Could not get any stock prices for the Company: Austal - with the Symbol: LX6.STG
+ERROR - 2021-03-22 10:00:44 - Error occured while trying to get quote data for the Company: Austal - with the Symbol: LX6.BER
+INFO - 2021-03-22 10:00:44 - Could not get any stock prices for the Company: Austal - with the Symbol: LX6.BER
+ERROR - 2021-03-22 10:00:56 - Error occured while trying to get quote data for the Company: Austal - with the Symbol: LX6.HAM
+INFO - 2021-03-22 10:00:56 - Could not get any stock prices for the Company: Austal - with the Symbol: LX6.HAM
+ERROR - 2021-03-22 10:02:02 - Error occured while trying to get quote data for the Company: Bell Equipment - with the Symbol: B2K.BER
+INFO - 2021-03-22 10:02:02 - Could not get any stock prices for the Company: Bell Equipment - with the Symbol: B2K.BER
+ERROR - 2021-03-22 10:02:15 - Error occured while trying to get quote data for the Company: Bell Equipment - with the Symbol: BEL.JOH
+INFO - 2021-03-22 10:02:15 - Could not get any stock prices for the Company: Bell Equipment - with the Symbol: BEL.JOH
+ERROR - 2021-03-22 10:03:20 - Error occured while trying to get quote data for the Company: BMW Group - with the Symbol: BMW.MIL
+INFO - 2021-03-22 10:03:20 - Could not get any stock prices for the Company: BMW Group - with the Symbol: BMW.MIL
+ERROR - 2021-03-22 10:03:33 - Error occured while trying to get quote data for the Company: BMW Group - with the Symbol: BMWM5N.MEX
+INFO - 2021-03-22 10:03:33 - Could not get any stock prices for the Company: BMW Group - with the Symbol: BMWM5N.MEX
+ERROR - 2021-03-22 10:03:46 - Error occured while trying to get quote data for the Company: BMW Group - with the Symbol: BMW.DUS
+INFO - 2021-03-22 10:03:46 - Could not get any stock prices for the Company: BMW Group - with the Symbol: BMW.DUS
+ERROR - 2021-03-22 10:03:59 - Error occured while trying to get quote data for the Company: BMW Group - with the Symbol: BUJA.MUN
+INFO - 2021-03-22 10:03:59 - Could not get any stock prices for the Company: BMW Group - with the Symbol: BUJA.MUN
+ERROR - 2021-03-22 10:05:31 - Error occured while trying to get quote data for the Company: Bombardier - with the Symbol: BBDB.TRT
+INFO - 2021-03-22 10:05:31 - Could not get any stock prices for the Company: Bombardier - with the Symbol: BBDB.TRT
+ERROR - 2021-03-22 10:07:17 - Error occured while trying to get quote data for the Company: Bridgestone Corporation - with the Symbol: 5108.FRK
+INFO - 2021-03-22 10:07:17 - Could not get any stock prices for the Company: Bridgestone Corporation - with the Symbol: 5108.FRK
+ERROR - 2021-03-22 10:07:30 - Error occured while trying to get quote data for the Company: Bridgestone Corporation - with the Symbol: 5108.TOK
+INFO - 2021-03-22 10:07:30 - Could not get any stock prices for the Company: Bridgestone Corporation - with the Symbol: 5108.TOK
+ERROR - 2021-03-22 10:07:44 - Error occured while trying to get quote data for the Company: Bridgestone Corporation - with the Symbol: BGTA.FRK
+INFO - 2021-03-22 10:07:44 - Could not get any stock prices for the Company: Bridgestone Corporation - with the Symbol: BGTA.FRK
+ERROR - 2021-03-22 10:08:11 - Error occured while trying to get quote data for the Company: Bridgestone Corporation - with the Symbol: BGT.BER
+INFO - 2021-03-22 10:08:11 - Could not get any stock prices for the Company: Bridgestone Corporation - with the Symbol: BGT.BER
+ERROR - 2021-03-22 10:08:24 - Error occured while trying to get quote data for the Company: Bridgestone Corporation - with the Symbol: BGT.DUS
+INFO - 2021-03-22 10:08:24 - Could not get any stock prices for the Company: Bridgestone Corporation - with the Symbol: BGT.DUS
+ERROR - 2021-03-22 10:08:50 - Error occured while trying to get quote data for the Company: Brunswick Corporation - with the Symbol: BC-PB
+INFO - 2021-03-22 10:08:50 - Could not get any stock prices for the Company: Brunswick Corporation - with the Symbol: BC-PB
+ERROR - 2021-03-22 10:09:03 - Error occured while trying to get quote data for the Company: Brunswick Corporation - with the Symbol: BC-PC
+INFO - 2021-03-22 10:09:03 - Could not get any stock prices for the Company: Brunswick Corporation - with the Symbol: BC-PC
+ERROR - 2021-03-22 10:09:16 - Error occured while trying to get quote data for the Company: Brunswick Corporation - with the Symbol: BC-PA
+INFO - 2021-03-22 10:09:16 - Could not get any stock prices for the Company: Brunswick Corporation - with the Symbol: BC-PA
+ERROR - 2021-03-22 10:09:42 - Error occured while trying to get quote data for the Company: Brunswick Corporation - with the Symbol: 0P0001H5BP.BER
+INFO - 2021-03-22 10:09:42 - Could not get any stock prices for the Company: Brunswick Corporation - with the Symbol: 0P0001H5BP.BER
+ERROR - 2021-03-22 10:09:55 - Error occured while trying to get quote data for the Company: Brunswick Corporation - with the Symbol: 0P0000648Y.LON
+INFO - 2021-03-22 10:09:55 - Could not get any stock prices for the Company: Brunswick Corporation - with the Symbol: 0P0000648Y.LON
+ERROR - 2021-03-22 10:10:08 - Error occured while trying to get quote data for the Company: Brunswick Corporation - with the Symbol: 0P0000KWF0.LON
+INFO - 2021-03-22 10:10:08 - Could not get any stock prices for the Company: Brunswick Corporation - with the Symbol: 0P0000KWF0.LON
+ERROR - 2021-03-22 10:11:00 - Error occured while trying to get quote data for the Company: BYD Company Limited - with the Symbol: 1211.HKG
+INFO - 2021-03-22 10:11:00 - Could not get any stock prices for the Company: BYD Company Limited - with the Symbol: 1211.HKG
+ERROR - 2021-03-22 10:11:52 - Error occured while trying to get quote data for the Company: BYD Company Limited - with the Symbol: BY6.VIE
+INFO - 2021-03-22 10:11:52 - Could not get any stock prices for the Company: BYD Company Limited - with the Symbol: BY6.VIE
+ERROR - 2021-03-22 10:12:17 - Error occured while trying to get quote data for the Company: Cargotec Group - with the Symbol: 0MGH.ILN
+INFO - 2021-03-22 10:12:17 - Could not get any stock prices for the Company: Cargotec Group - with the Symbol: 0MGH.ILN
+ERROR - 2021-03-22 10:12:43 - Error occured while trying to get quote data for the Company: Cargotec Group - with the Symbol: C1C.BER
+INFO - 2021-03-22 10:12:43 - Could not get any stock prices for the Company: Cargotec Group - with the Symbol: C1C.BER
+ERROR - 2021-03-22 10:12:56 - Error occured while trying to get quote data for the Company: Cargotec Group - with the Symbol: C1C.STG
+INFO - 2021-03-22 10:12:56 - Could not get any stock prices for the Company: Cargotec Group - with the Symbol: C1C.STG
+ERROR - 2021-03-22 10:13:09 - Error occured while trying to get quote data for the Company: Carraro Group - with the Symbol: CARR.MIL
+INFO - 2021-03-22 10:13:09 - Could not get any stock prices for the Company: Carraro Group - with the Symbol: CARR.MIL
+ERROR - 2021-03-22 10:13:22 - Error occured while trying to get quote data for the Company: Carraro Group - with the Symbol: 0N7L.LON
+INFO - 2021-03-22 10:13:22 - Could not get any stock prices for the Company: Carraro Group - with the Symbol: 0N7L.LON
+ERROR - 2021-03-22 10:14:02 - Error occured while trying to get quote data for the Company: Caterpillar Group - with the Symbol: CAT.ARG
+INFO - 2021-03-22 10:14:02 - Could not get any stock prices for the Company: Caterpillar Group - with the Symbol: CAT.ARG
+ERROR - 2021-03-22 10:14:15 - Error occured while trying to get quote data for the Company: Caterpillar Group - with the Symbol: CAT.MEX
+INFO - 2021-03-22 10:14:15 - Could not get any stock prices for the Company: Caterpillar Group - with the Symbol: CAT.MEX
+ERROR - 2021-03-22 10:14:27 - Error occured while trying to get quote data for the Company: Caterpillar Group - with the Symbol: CAT.SWI
+INFO - 2021-03-22 10:14:27 - Could not get any stock prices for the Company: Caterpillar Group - with the Symbol: CAT.SWI
+ERROR - 2021-03-22 10:14:53 - Error occured while trying to get quote data for the Company: Caterpillar Group - with the Symbol: CAT1.HAN
+INFO - 2021-03-22 10:14:53 - Could not get any stock prices for the Company: Caterpillar Group - with the Symbol: CAT1.HAN
+ERROR - 2021-03-22 10:15:06 - Error occured while trying to get quote data for the Company: Caterpillar Group - with the Symbol: CAT1.STG
+INFO - 2021-03-22 10:15:06 - Could not get any stock prices for the Company: Caterpillar Group - with the Symbol: CAT1.STG
+ERROR - 2021-03-22 10:15:19 - Error occured while trying to get quote data for the Company: Caterpillar Group - with the Symbol: CAT1.BER
+INFO - 2021-03-22 10:15:19 - Could not get any stock prices for the Company: Caterpillar Group - with the Symbol: CAT1.BER
+ERROR - 2021-03-22 10:15:32 - Error occured while trying to get quote data for the Company: Caterpillar Group - with the Symbol: CAT1.MUN
+INFO - 2021-03-22 10:15:32 - Could not get any stock prices for the Company: Caterpillar Group - with the Symbol: CAT1.MUN
+ERROR - 2021-03-22 10:15:57 - Error occured while trying to get quote data for the Company: CNH Industrial - with the Symbol: CNHI.MIL
+INFO - 2021-03-22 10:15:57 - Could not get any stock prices for the Company: CNH Industrial - with the Symbol: CNHI.MIL
+ERROR - 2021-03-22 10:16:10 - Error occured while trying to get quote data for the Company: CNH Industrial - with the Symbol: CNHI.VIE
+INFO - 2021-03-22 10:16:10 - Could not get any stock prices for the Company: CNH Industrial - with the Symbol: CNHI.VIE
+ERROR - 2021-03-22 10:17:02 - Error occured while trying to get quote data for the Company: Continental Group - with the Symbol: IR5B.STG
+INFO - 2021-03-22 10:17:02 - Could not get any stock prices for the Company: Continental Group - with the Symbol: IR5B.STG
+ERROR - 2021-03-22 10:17:27 - Error occured while trying to get quote data for the Company: Cummins - with the Symbol: CUMMINSIND.NSE
+INFO - 2021-03-22 10:17:27 - Could not get any stock prices for the Company: Cummins - with the Symbol: CUMMINSIND.NSE
+ERROR - 2021-03-22 10:17:40 - Error occured while trying to get quote data for the Company: Cummins - with the Symbol: CUM.STG
+INFO - 2021-03-22 10:17:40 - Could not get any stock prices for the Company: Cummins - with the Symbol: CUM.STG
+ERROR - 2021-03-22 10:17:53 - Error occured while trying to get quote data for the Company: Cummins - with the Symbol: CUMMINSIND.BSE
+INFO - 2021-03-22 10:17:53 - Could not get any stock prices for the Company: Cummins - with the Symbol: CUMMINSIND.BSE
+ERROR - 2021-03-22 10:18:05 - Error occured while trying to get quote data for the Company: Cummins - with the Symbol: CUMMINSIND-EQ.NSE
+INFO - 2021-03-22 10:18:05 - Could not get any stock prices for the Company: Cummins - with the Symbol: CUMMINSIND-EQ.NSE
+ERROR - 2021-03-22 10:18:18 - Error occured while trying to get quote data for the Company: Cummins - with the Symbol: CUM.BER
+INFO - 2021-03-22 10:18:18 - Could not get any stock prices for the Company: Cummins - with the Symbol: CUM.BER
+ERROR - 2021-03-22 10:18:31 - Error occured while trying to get quote data for the Company: Cummins - with the Symbol: CUM.DUS
+INFO - 2021-03-22 10:18:31 - Could not get any stock prices for the Company: Cummins - with the Symbol: CUM.DUS
+ERROR - 2021-03-22 10:18:43 - Error occured while trying to get quote data for the Company: Cummins - with the Symbol: CUM.MUN
+INFO - 2021-03-22 10:18:43 - Could not get any stock prices for the Company: Cummins - with the Symbol: CUM.MUN
+ERROR - 2021-03-22 10:20:15 - Error occured while trying to get quote data for the Company: Daimler Group - with the Symbol: DAIN.MEX
+INFO - 2021-03-22 10:20:15 - Could not get any stock prices for the Company: Daimler Group - with the Symbol: DAIN.MEX
+ERROR - 2021-03-22 10:20:28 - Error occured while trying to get quote data for the Company: Daimler Group - with the Symbol: DAI.HAN
+INFO - 2021-03-22 10:20:28 - Could not get any stock prices for the Company: Daimler Group - with the Symbol: DAI.HAN
+ERROR - 2021-03-22 10:20:40 - Error occured while trying to get quote data for the Company: Daimler Group - with the Symbol: DAI.MUN
+INFO - 2021-03-22 10:20:40 - Could not get any stock prices for the Company: Daimler Group - with the Symbol: DAI.MUN
+ERROR - 2021-03-22 10:21:33 - Error occured while trying to get quote data for the Company: Deere Group - with the Symbol: 0JDG.STG
+INFO - 2021-03-22 10:21:33 - Could not get any stock prices for the Company: Deere Group - with the Symbol: 0JDG.STG
+ERROR - 2021-03-22 10:21:59 - Error occured while trying to get quote data for the Company: Deere Group - with the Symbol: 0R2P.LON
+INFO - 2021-03-22 10:21:59 - Could not get any stock prices for the Company: Deere Group - with the Symbol: 0R2P.LON
+ERROR - 2021-03-22 10:22:11 - Error occured while trying to get quote data for the Company: Deere Group - with the Symbol: DCO.HAN
+INFO - 2021-03-22 10:22:11 - Could not get any stock prices for the Company: Deere Group - with the Symbol: DCO.HAN
+ERROR - 2021-03-22 10:22:24 - Error occured while trying to get quote data for the Company: Deere Group - with the Symbol: DE.ARG
+INFO - 2021-03-22 10:22:24 - Could not get any stock prices for the Company: Deere Group - with the Symbol: DE.ARG
+ERROR - 2021-03-22 10:22:37 - Error occured while trying to get quote data for the Company: Deere Group - with the Symbol: 0JDG.BER
+INFO - 2021-03-22 10:22:37 - Could not get any stock prices for the Company: Deere Group - with the Symbol: 0JDG.BER
+ERROR - 2021-03-22 10:22:49 - Error occured while trying to get quote data for the Company: Deere Group - with the Symbol: DCO.DUS
+INFO - 2021-03-22 10:22:49 - Could not get any stock prices for the Company: Deere Group - with the Symbol: DCO.DUS
+ERROR - 2021-03-22 10:23:15 - Error occured while trying to get quote data for the Company: Deutz Fahr /SDF Group - with the Symbol: DEZ.BER
+INFO - 2021-03-22 10:23:15 - Could not get any stock prices for the Company: Deutz Fahr /SDF Group - with the Symbol: DEZ.BER
+ERROR - 2021-03-22 10:23:27 - Error occured while trying to get quote data for the Company: Deutz Fahr /SDF Group - with the Symbol: DEZ.VIE
+INFO - 2021-03-22 10:23:27 - Could not get any stock prices for the Company: Deutz Fahr /SDF Group - with the Symbol: DEZ.VIE
+ERROR - 2021-03-22 10:23:53 - Error occured while trying to get quote data for the Company: Deutz Fahr /SDF Group - with the Symbol: DEZ.DUS
+INFO - 2021-03-22 10:23:53 - Could not get any stock prices for the Company: Deutz Fahr /SDF Group - with the Symbol: DEZ.DUS
+ERROR - 2021-03-22 10:24:05 - Error occured while trying to get quote data for the Company: Deutz Fahr /SDF Group - with the Symbol: DEZ.HAN
+INFO - 2021-03-22 10:24:05 - Could not get any stock prices for the Company: Deutz Fahr /SDF Group - with the Symbol: DEZ.HAN
+ERROR - 2021-03-22 10:24:18 - Error occured while trying to get quote data for the Company: Deutz Fahr /SDF Group - with the Symbol: DEZ.HAM
+INFO - 2021-03-22 10:24:18 - Could not get any stock prices for the Company: Deutz Fahr /SDF Group - with the Symbol: DEZ.HAM
+ERROR - 2021-03-22 10:24:31 - Error occured while trying to get quote data for the Company: Deutz Fahr /SDF Group - with the Symbol: DEZ.MUN
+INFO - 2021-03-22 10:24:31 - Could not get any stock prices for the Company: Deutz Fahr /SDF Group - with the Symbol: DEZ.MUN
+ERROR - 2021-03-22 10:24:43 - Error occured while trying to get quote data for the Company: Deutz Fahr /SDF Group - with the Symbol: DEZ.STG
+INFO - 2021-03-22 10:24:43 - Could not get any stock prices for the Company: Deutz Fahr /SDF Group - with the Symbol: DEZ.STG
+ERROR - 2021-03-22 10:24:56 - Error occured while trying to get quote data for the Company: Doosan Group - with the Symbol: 000155.KOR
+INFO - 2021-03-22 10:24:56 - Could not get any stock prices for the Company: Doosan Group - with the Symbol: 000155.KOR
+ERROR - 2021-03-22 10:25:08 - Error occured while trying to get quote data for the Company: Doosan Group - with the Symbol: 241560.KOR
+INFO - 2021-03-22 10:25:08 - Could not get any stock prices for the Company: Doosan Group - with the Symbol: 241560.KOR
+ERROR - 2021-03-22 10:25:21 - Error occured while trying to get quote data for the Company: Doosan Group - with the Symbol: 336370.KOR
+INFO - 2021-03-22 10:25:21 - Could not get any stock prices for the Company: Doosan Group - with the Symbol: 336370.KOR
+ERROR - 2021-03-22 10:25:34 - Error occured while trying to get quote data for the Company: Doosan Group - with the Symbol: 042670.KOR
+INFO - 2021-03-22 10:25:34 - Could not get any stock prices for the Company: Doosan Group - with the Symbol: 042670.KOR
+ERROR - 2021-03-22 10:25:46 - Error occured while trying to get quote data for the Company: Doosan Group - with the Symbol: 336260.KOR
+INFO - 2021-03-22 10:25:46 - Could not get any stock prices for the Company: Doosan Group - with the Symbol: 336260.KOR
+ERROR - 2021-03-22 10:25:59 - Error occured while trying to get quote data for the Company: Doosan Group - with the Symbol: 034020.KOR
+INFO - 2021-03-22 10:25:59 - Could not get any stock prices for the Company: Doosan Group - with the Symbol: 034020.KOR
+ERROR - 2021-03-22 10:26:11 - Error occured while trying to get quote data for the Company: Doosan Group - with the Symbol: 33637K.KOR
+INFO - 2021-03-22 10:26:12 - Could not get any stock prices for the Company: Doosan Group - with the Symbol: 33637K.KOR
+ERROR - 2021-03-22 10:26:24 - Error occured while trying to get quote data for the Company: Doosan Group - with the Symbol: 33637L.KOR
+INFO - 2021-03-22 10:26:24 - Could not get any stock prices for the Company: Doosan Group - with the Symbol: 33637L.KOR
+ERROR - 2021-03-22 10:29:12 - Error occured while trying to get quote data for the Company: Ferrocarriles ( CAF )  - with the Symbol: CAF.MDR
+INFO - 2021-03-22 10:29:12 - Could not get any stock prices for the Company: Ferrocarriles ( CAF )  - with the Symbol: CAF.MDR
+ERROR - 2021-03-22 10:29:39 - Error occured while trying to get quote data for the Company: Ferrocarriles ( CAF )  - with the Symbol: CAFEN.MEX
+INFO - 2021-03-22 10:29:39 - Could not get any stock prices for the Company: Ferrocarriles ( CAF )  - with the Symbol: CAFEN.MEX
+ERROR - 2021-03-22 10:30:19 - Error occured while trying to get quote data for the Company: Finning - with the Symbol: CIH.STG
+INFO - 2021-03-22 10:30:19 - Could not get any stock prices for the Company: Finning - with the Symbol: CIH.STG
+ERROR - 2021-03-22 10:31:11 - Error occured while trying to get quote data for the Company: Force Motors - with the Symbol: FORCEMOT.NSE
+INFO - 2021-03-22 10:31:11 - Could not get any stock prices for the Company: Force Motors - with the Symbol: FORCEMOT.NSE
+ERROR - 2021-03-22 10:31:38 - Error occured while trying to get quote data for the Company: Force Motors - with the Symbol: S3811.MDR
+INFO - 2021-03-22 10:31:38 - Could not get any stock prices for the Company: Force Motors - with the Symbol: S3811.MDR
+ERROR - 2021-03-22 10:31:51 - Error occured while trying to get quote data for the Company: Force Motors - with the Symbol: 0P0000WNC1.TWN
+INFO - 2021-03-22 10:31:51 - Could not get any stock prices for the Company: Force Motors - with the Symbol: 0P0000WNC1.TWN
+ERROR - 2021-03-22 10:37:16 - Error occured while trying to get quote data for the Company: Goodyear - with the Symbol: GDYR.JKT
+INFO - 2021-03-22 10:37:16 - Could not get any stock prices for the Company: Goodyear - with the Symbol: GDYR.JKT
+ERROR - 2021-03-22 10:37:29 - Error occured while trying to get quote data for the Company: Goodyear - with the Symbol: GT.MEX
+INFO - 2021-03-22 10:37:29 - Could not get any stock prices for the Company: Goodyear - with the Symbol: GT.MEX
+ERROR - 2021-03-22 10:37:42 - Error occured while trying to get quote data for the Company: Goodyear - with the Symbol: GTR.BER
+INFO - 2021-03-22 10:37:42 - Could not get any stock prices for the Company: Goodyear - with the Symbol: GTR.BER
+ERROR - 2021-03-22 10:37:54 - Error occured while trying to get quote data for the Company: Goodyear - with the Symbol: GTR.DUS
+INFO - 2021-03-22 10:37:54 - Could not get any stock prices for the Company: Goodyear - with the Symbol: GTR.DUS
+ERROR - 2021-03-22 10:38:07 - Error occured while trying to get quote data for the Company: Goodyear - with the Symbol: GTR.MUN
+INFO - 2021-03-22 10:38:07 - Could not get any stock prices for the Company: Goodyear - with the Symbol: GTR.MUN
+ERROR - 2021-03-22 10:38:19 - Error occured while trying to get quote data for the Company: Goodyear - with the Symbol: GTR.STG
+INFO - 2021-03-22 10:38:19 - Could not get any stock prices for the Company: Goodyear - with the Symbol: GTR.STG
+ERROR - 2021-03-22 10:38:47 - Error occured while trying to get quote data for the Company: Goodyear - with the Symbol: GYT.VIE
+INFO - 2021-03-22 10:38:47 - Could not get any stock prices for the Company: Goodyear - with the Symbol: GYT.VIE
+ERROR - 2021-03-22 10:46:09 - Error occured while trying to get quote data for the Company: Hyundai Heavy Industries Group - with the Symbol: 011760.KOR
+INFO - 2021-03-22 10:46:09 - Could not get any stock prices for the Company: Hyundai Heavy Industries Group - with the Symbol: 011760.KOR
+ERROR - 2021-03-22 10:46:48 - Error occured while trying to get quote data for the Company: Hyundai Heavy Industries Group - with the Symbol: 005380.KOR
+INFO - 2021-03-22 10:46:48 - Could not get any stock prices for the Company: Hyundai Heavy Industries Group - with the Symbol: 005380.KOR
+ERROR - 2021-03-22 10:47:01 - Error occured while trying to get quote data for the Company: Hyundai Heavy Industries Group - with the Symbol: 006390.KOR
+INFO - 2021-03-22 10:47:01 - Could not get any stock prices for the Company: Hyundai Heavy Industries Group - with the Symbol: 006390.KOR
+ERROR - 2021-03-22 10:47:14 - Error occured while trying to get quote data for the Company: Hyundai Heavy Industries Group - with the Symbol: 017800.KOR
+INFO - 2021-03-22 10:47:14 - Could not get any stock prices for the Company: Hyundai Heavy Industries Group - with the Symbol: 017800.KOR
+ERROR - 2021-03-22 10:47:26 - Error occured while trying to get quote data for the Company: Hyundai Heavy Industries Group - with the Symbol: 005385.KOR
+INFO - 2021-03-22 10:47:26 - Could not get any stock prices for the Company: Hyundai Heavy Industries Group - with the Symbol: 005385.KOR
+ERROR - 2021-03-22 10:47:39 - Error occured while trying to get quote data for the Company: Hyundai Heavy Industries Group - with the Symbol: 057050.KOR
+INFO - 2021-03-22 10:47:39 - Could not get any stock prices for the Company: Hyundai Heavy Industries Group - with the Symbol: 057050.KOR
+ERROR - 2021-03-22 10:47:52 - Error occured while trying to get quote data for the Company: Hyundai Heavy Industries Group - with the Symbol: 322000.KOR
+INFO - 2021-03-22 10:47:52 - Could not get any stock prices for the Company: Hyundai Heavy Industries Group - with the Symbol: 322000.KOR
+ERROR - 2021-03-22 10:48:19 - Error occured while trying to get quote data for the Company: Iberdrola - with the Symbol: IBE1.STG
+INFO - 2021-03-22 10:48:19 - Could not get any stock prices for the Company: Iberdrola - with the Symbol: IBE1.STG
+ERROR - 2021-03-22 10:48:58 - Error occured while trying to get quote data for the Company: Iberdrola - with the Symbol: IBE.MDR
+INFO - 2021-03-22 10:48:58 - Could not get any stock prices for the Company: Iberdrola - with the Symbol: IBE.MDR
+ERROR - 2021-03-22 10:49:36 - Error occured while trying to get quote data for the Company: Iberdrola - with the Symbol: IBE1.DUS
+INFO - 2021-03-22 10:49:36 - Could not get any stock prices for the Company: Iberdrola - with the Symbol: IBE1.DUS
+ERROR - 2021-03-22 10:49:49 - Error occured while trying to get quote data for the Company: Iberdrola - with the Symbol: IBE.MIL
+INFO - 2021-03-22 10:49:49 - Could not get any stock prices for the Company: Iberdrola - with the Symbol: IBE.MIL
+ERROR - 2021-03-22 10:50:02 - Error occured while trying to get quote data for the Company: Iberdrola - with the Symbol: IBE.VIE
+INFO - 2021-03-22 10:50:02 - Could not get any stock prices for the Company: Iberdrola - with the Symbol: IBE.VIE
+ERROR - 2021-03-22 10:50:14 - Error occured while trying to get quote data for the Company: Iberdrola - with the Symbol: IBEN.MEX
+INFO - 2021-03-22 10:50:14 - Could not get any stock prices for the Company: Iberdrola - with the Symbol: IBEN.MEX
+ERROR - 2021-03-22 10:51:05 - Error occured while trying to get quote data for the Company: Jungheinrich - with the Symbol: 0EXP.ILN
+INFO - 2021-03-22 10:51:05 - Could not get any stock prices for the Company: Jungheinrich - with the Symbol: 0EXP.ILN
+ERROR - 2021-03-22 10:51:18 - Error occured while trying to get quote data for the Company: Jungheinrich - with the Symbol: JUN3.BER
+INFO - 2021-03-22 10:51:18 - Could not get any stock prices for the Company: Jungheinrich - with the Symbol: JUN3.BER
+ERROR - 2021-03-22 10:51:31 - Error occured while trying to get quote data for the Company: Jungheinrich - with the Symbol: JUN3.DUS
+INFO - 2021-03-22 10:51:31 - Could not get any stock prices for the Company: Jungheinrich - with the Symbol: JUN3.DUS
+ERROR - 2021-03-22 10:51:44 - Error occured while trying to get quote data for the Company: Jungheinrich - with the Symbol: JUN3.HAN
+INFO - 2021-03-22 10:51:44 - Could not get any stock prices for the Company: Jungheinrich - with the Symbol: JUN3.HAN
+ERROR - 2021-03-22 10:51:56 - Error occured while trying to get quote data for the Company: Jungheinrich - with the Symbol: JUN3.HAM
+INFO - 2021-03-22 10:51:56 - Could not get any stock prices for the Company: Jungheinrich - with the Symbol: JUN3.HAM
+ERROR - 2021-03-22 10:52:09 - Error occured while trying to get quote data for the Company: Jungheinrich - with the Symbol: JUN3.MUN
+INFO - 2021-03-22 10:52:09 - Could not get any stock prices for the Company: Jungheinrich - with the Symbol: JUN3.MUN
+ERROR - 2021-03-22 10:52:34 - Error occured while trying to get quote data for the Company: KAMAZ - with the Symbol: KMAZ.MOS
+INFO - 2021-03-22 10:52:34 - Could not get any stock prices for the Company: KAMAZ - with the Symbol: KMAZ.MOS
+ERROR - 2021-03-22 10:52:47 - Error occured while trying to get quote data for the Company: Kia Motors (CV) - with the Symbol: 000270.KOR
+INFO - 2021-03-22 10:52:47 - Could not get any stock prices for the Company: Kia Motors (CV) - with the Symbol: 000270.KOR
+ERROR - 2021-03-22 10:53:39 - Error occured while trying to get quote data for the Company: KION Group - with the Symbol: 0QFU.ILN
+INFO - 2021-03-22 10:53:39 - Could not get any stock prices for the Company: KION Group - with the Symbol: 0QFU.ILN
+ERROR - 2021-03-22 10:54:04 - Error occured while trying to get quote data for the Company: KION Group - with the Symbol: KGX.BER
+INFO - 2021-03-22 10:54:04 - Could not get any stock prices for the Company: KION Group - with the Symbol: KGX.BER
+ERROR - 2021-03-22 10:54:17 - Error occured while trying to get quote data for the Company: KION Group - with the Symbol: KGX.DUS
+INFO - 2021-03-22 10:54:17 - Could not get any stock prices for the Company: KION Group - with the Symbol: KGX.DUS
+ERROR - 2021-03-22 10:54:29 - Error occured while trying to get quote data for the Company: KION Group - with the Symbol: KGX.HAN
+INFO - 2021-03-22 10:54:29 - Could not get any stock prices for the Company: KION Group - with the Symbol: KGX.HAN
+ERROR - 2021-03-22 10:54:42 - Error occured while trying to get quote data for the Company: KION Group - with the Symbol: KGX.HAM
+INFO - 2021-03-22 10:54:42 - Could not get any stock prices for the Company: KION Group - with the Symbol: KGX.HAM
+ERROR - 2021-03-22 10:55:47 - Error occured while trying to get quote data for the Company: Knorr Bremse - with the Symbol: KBX.MUN
+INFO - 2021-03-22 10:55:47 - Could not get any stock prices for the Company: Knorr Bremse - with the Symbol: KBX.MUN
+ERROR - 2021-03-22 10:56:13 - Error occured while trying to get quote data for the Company: Knorr Bremse - with the Symbol: KBX.BER
+INFO - 2021-03-22 10:56:13 - Could not get any stock prices for the Company: Knorr Bremse - with the Symbol: KBX.BER
+ERROR - 2021-03-22 10:56:52 - Error occured while trying to get quote data for the Company: Komatsu Group - with the Symbol: 6301.TOK
+INFO - 2021-03-22 10:56:52 - Could not get any stock prices for the Company: Komatsu Group - with the Symbol: 6301.TOK
+ERROR - 2021-03-22 10:57:04 - Error occured while trying to get quote data for the Company: Komatsu Group - with the Symbol: 7949.TOK
+INFO - 2021-03-22 10:57:04 - Could not get any stock prices for the Company: Komatsu Group - with the Symbol: 7949.TOK
+ERROR - 2021-03-22 10:57:17 - Error occured while trying to get quote data for the Company: Komatsu Group - with the Symbol: 3580.TOK
+INFO - 2021-03-22 10:57:17 - Could not get any stock prices for the Company: Komatsu Group - with the Symbol: 3580.TOK
+ERROR - 2021-03-22 10:57:30 - Error occured while trying to get quote data for the Company: Komatsu Group - with the Symbol: KOM1.STG
+INFO - 2021-03-22 10:57:30 - Could not get any stock prices for the Company: Komatsu Group - with the Symbol: KOM1.STG
+ERROR - 2021-03-22 10:57:57 - Error occured while trying to get quote data for the Company: Komatsu Group - with the Symbol: KOM1.BER
+INFO - 2021-03-22 10:57:57 - Could not get any stock prices for the Company: Komatsu Group - with the Symbol: KOM1.BER
+ERROR - 2021-03-22 10:58:10 - Error occured while trying to get quote data for the Company: Komatsu Group - with the Symbol: KOM1.DUS
+INFO - 2021-03-22 10:58:10 - Could not get any stock prices for the Company: Komatsu Group - with the Symbol: KOM1.DUS
+ERROR - 2021-03-22 10:58:35 - Error occured while trying to get quote data for the Company: Konecranes - with the Symbol: 0MET.ILN
+INFO - 2021-03-22 10:58:35 - Could not get any stock prices for the Company: Konecranes - with the Symbol: 0MET.ILN
+ERROR - 2021-03-22 10:58:48 - Error occured while trying to get quote data for the Company: Konecranes - with the Symbol: K34.STG
+INFO - 2021-03-22 10:58:48 - Could not get any stock prices for the Company: Konecranes - with the Symbol: K34.STG
+ERROR - 2021-03-22 10:59:01 - Error occured while trying to get quote data for the Company: Konecranes - with the Symbol: K34.DUS
+INFO - 2021-03-22 10:59:01 - Could not get any stock prices for the Company: Konecranes - with the Symbol: K34.DUS
+ERROR - 2021-03-22 11:00:22 - Error occured while trying to get quote data for the Company: Kubota - with the Symbol: 6326.TOK
+INFO - 2021-03-22 11:00:22 - Could not get any stock prices for the Company: Kubota - with the Symbol: 6326.TOK
+ERROR - 2021-03-22 11:00:34 - Error occured while trying to get quote data for the Company: Kubota - with the Symbol: 4596.TOK
+INFO - 2021-03-22 11:00:34 - Could not get any stock prices for the Company: Kubota - with the Symbol: 4596.TOK
+ERROR - 2021-03-22 11:01:02 - Error occured while trying to get quote data for the Company: Kubota - with the Symbol: KUOA.FRK
+INFO - 2021-03-22 11:01:02 - Could not get any stock prices for the Company: Kubota - with the Symbol: KUOA.FRK
+ERROR - 2021-03-22 11:01:15 - Error occured while trying to get quote data for the Company: Kubota - with the Symbol: KUO1.BER
+INFO - 2021-03-22 11:01:15 - Could not get any stock prices for the Company: Kubota - with the Symbol: KUO1.BER
+ERROR - 2021-03-22 11:02:06 - Error occured while trying to get quote data for the Company: Kuka - with the Symbol: KU2.STG
+INFO - 2021-03-22 11:02:06 - Could not get any stock prices for the Company: Kuka - with the Symbol: KU2.STG
+ERROR - 2021-03-22 11:02:19 - Error occured while trying to get quote data for the Company: Kuka - with the Symbol: KU2.MUN
+INFO - 2021-03-22 11:02:19 - Could not get any stock prices for the Company: Kuka - with the Symbol: KU2.MUN
+ERROR - 2021-03-22 11:02:32 - Error occured while trying to get quote data for the Company: Kuka - with the Symbol: 0JOE.ILN
+INFO - 2021-03-22 11:02:32 - Could not get any stock prices for the Company: Kuka - with the Symbol: 0JOE.ILN
+ERROR - 2021-03-22 11:02:44 - Error occured while trying to get quote data for the Company: Kuka - with the Symbol: KU2.BER
+INFO - 2021-03-22 11:02:44 - Could not get any stock prices for the Company: Kuka - with the Symbol: KU2.BER
+ERROR - 2021-03-22 11:02:57 - Error occured while trying to get quote data for the Company: Kuka - with the Symbol: KU2.DUS
+INFO - 2021-03-22 11:02:57 - Could not get any stock prices for the Company: Kuka - with the Symbol: KU2.DUS
+ERROR - 2021-03-22 11:03:25 - Error occured while trying to get quote data for the Company: Kuka - with the Symbol: KU2.HAN
+INFO - 2021-03-22 11:03:25 - Could not get any stock prices for the Company: Kuka - with the Symbol: KU2.HAN
+ERROR - 2021-03-22 11:03:51 - Error occured while trying to get quote data for the Company: Larsen & Toubro - with the Symbol: LT.NSE
+INFO - 2021-03-22 11:03:51 - Could not get any stock prices for the Company: Larsen & Toubro - with the Symbol: LT.NSE
+ERROR - 2021-03-22 11:04:03 - Error occured while trying to get quote data for the Company: Larsen & Toubro - with the Symbol: LTI.NSE
+INFO - 2021-03-22 11:04:03 - Could not get any stock prices for the Company: Larsen & Toubro - with the Symbol: LTI.NSE
+ERROR - 2021-03-22 11:04:29 - Error occured while trying to get quote data for the Company: Larsen & Toubro - with the Symbol: LTO.STG
+INFO - 2021-03-22 11:04:29 - Could not get any stock prices for the Company: Larsen & Toubro - with the Symbol: LTO.STG
+ERROR - 2021-03-22 11:04:56 - Error occured while trying to get quote data for the Company: Larsen & Toubro - with the Symbol: LTO.BER
+INFO - 2021-03-22 11:04:56 - Could not get any stock prices for the Company: Larsen & Toubro - with the Symbol: LTO.BER
+ERROR - 2021-03-22 11:05:09 - Error occured while trying to get quote data for the Company: Larsen & Toubro - with the Symbol: LTO.DUS
+INFO - 2021-03-22 11:05:09 - Could not get any stock prices for the Company: Larsen & Toubro - with the Symbol: LTO.DUS
+ERROR - 2021-03-22 11:05:22 - Error occured while trying to get quote data for the Company: Larsen & Toubro - with the Symbol: LTOD.ILN
+INFO - 2021-03-22 11:05:22 - Could not get any stock prices for the Company: Larsen & Toubro - with the Symbol: LTOD.ILN
+ERROR - 2021-03-22 11:06:13 - Error occured while trying to get quote data for the Company: Magna International Group - with the Symbol: 7617.KLA
+INFO - 2021-03-22 11:06:13 - Could not get any stock prices for the Company: Magna International Group - with the Symbol: 7617.KLA
+ERROR - 2021-03-22 11:07:29 - Error occured while trying to get quote data for the Company: Magna International Group - with the Symbol: MGR.TRV
+INFO - 2021-03-22 11:07:29 - Could not get any stock prices for the Company: Magna International Group - with the Symbol: MGR.TRV
+ERROR - 2021-03-22 11:07:42 - Error occured while trying to get quote data for the Company: Magna International Group - with the Symbol: MGNA.JKT
+INFO - 2021-03-22 11:07:42 - Could not get any stock prices for the Company: Magna International Group - with the Symbol: MGNA.JKT
+ERROR - 2021-03-22 11:07:54 - Error occured while trying to get quote data for the Company: Magna International Group - with the Symbol: MGAN.MEX
+INFO - 2021-03-22 11:07:54 - Could not get any stock prices for the Company: Magna International Group - with the Symbol: MGAN.MEX
+ERROR - 2021-03-22 11:08:32 - Error occured while trying to get quote data for the Company: Mahindra & Mahindra - with the Symbol: TECHM.NSE
+INFO - 2021-03-22 11:08:32 - Could not get any stock prices for the Company: Mahindra & Mahindra - with the Symbol: TECHM.NSE
+ERROR - 2021-03-22 11:08:45 - Error occured while trying to get quote data for the Company: Mahindra & Mahindra - with the Symbol: KOTAKBANK.NSE
+INFO - 2021-03-22 11:08:45 - Could not get any stock prices for the Company: Mahindra & Mahindra - with the Symbol: KOTAKBANK.NSE
+ERROR - 2021-03-22 11:09:10 - Error occured while trying to get quote data for the Company: Mahindra & Mahindra - with the Symbol: MAHINDCIE.NSE
+INFO - 2021-03-22 11:09:10 - Could not get any stock prices for the Company: Mahindra & Mahindra - with the Symbol: MAHINDCIE.NSE
+ERROR - 2021-03-22 11:09:23 - Error occured while trying to get quote data for the Company: Mahindra & Mahindra - with the Symbol: 0P0000NPBF.BSE
+INFO - 2021-03-22 11:09:23 - Could not get any stock prices for the Company: Mahindra & Mahindra - with the Symbol: 0P0000NPBF.BSE
+ERROR - 2021-03-22 11:09:36 - Error occured while trying to get quote data for the Company: Mahindra & Mahindra - with the Symbol: TECHM.BSE
+INFO - 2021-03-22 11:09:36 - Could not get any stock prices for the Company: Mahindra & Mahindra - with the Symbol: TECHM.BSE
+ERROR - 2021-03-22 11:12:19 - Error occured while trying to get quote data for the Company: Manitou Group - with the Symbol: 3MU.BER
+INFO - 2021-03-22 11:12:19 - Could not get any stock prices for the Company: Manitou Group - with the Symbol: 3MU.BER
+ERROR - 2021-03-22 11:12:35 - Error occured while trying to get quote data for the Company: Manitou Group - with the Symbol: 0NDA.ILN
+INFO - 2021-03-22 11:12:35 - Could not get any stock prices for the Company: Manitou Group - with the Symbol: 0NDA.ILN
+ERROR - 2021-03-22 11:13:01 - Error occured while trying to get quote data for the Company: Manitou Group - with the Symbol: 3MU.STG
+INFO - 2021-03-22 11:13:01 - Could not get any stock prices for the Company: Manitou Group - with the Symbol: 3MU.STG
+ERROR - 2021-03-22 11:13:26 - Error occured while trying to get quote data for the Company: Meritor - with the Symbol: AID1.STG
+INFO - 2021-03-22 11:13:26 - Could not get any stock prices for the Company: Meritor - with the Symbol: AID1.STG
+ERROR - 2021-03-22 11:13:52 - Error occured while trying to get quote data for the Company: Meritor - with the Symbol: AID1.BER
+INFO - 2021-03-22 11:13:52 - Could not get any stock prices for the Company: Meritor - with the Symbol: AID1.BER
+ERROR - 2021-03-22 11:14:04 - Error occured while trying to get quote data for the Company: Meritor - with the Symbol: AID1.MUN
+INFO - 2021-03-22 11:14:04 - Could not get any stock prices for the Company: Meritor - with the Symbol: AID1.MUN
+ERROR - 2021-03-22 11:14:17 - Error occured while trying to get quote data for the Company: Meritor - with the Symbol: AVMR.MUN
+INFO - 2021-03-22 11:14:17 - Could not get any stock prices for the Company: Meritor - with the Symbol: AVMR.MUN
+ERROR - 2021-03-22 11:14:30 - Error occured while trying to get quote data for the Company: Mitsubishi Corp - with the Symbol: MSBHY
+INFO - 2021-03-22 11:14:30 - Could not get any stock prices for the Company: Mitsubishi Corp - with the Symbol: MSBHY
+ERROR - 2021-03-22 11:17:48 - Error occured while trying to get quote data for the Company: Nissan Motor (Cars) - with the Symbol: 7201.TOK
+INFO - 2021-03-22 11:17:48 - Could not get any stock prices for the Company: Nissan Motor (Cars) - with the Symbol: 7201.TOK
+ERROR - 2021-03-22 11:18:16 - Error occured while trying to get quote data for the Company: Nissan Motor (Cars) - with the Symbol: 4021.TOK
+INFO - 2021-03-22 11:18:16 - Could not get any stock prices for the Company: Nissan Motor (Cars) - with the Symbol: 4021.TOK
+ERROR - 2021-03-22 11:18:30 - Error occured while trying to get quote data for the Company: Nissan Motor (Cars) - with the Symbol: NISE.FRK
+INFO - 2021-03-22 11:18:30 - Could not get any stock prices for the Company: Nissan Motor (Cars) - with the Symbol: NISE.FRK
+ERROR - 2021-03-22 11:18:43 - Error occured while trying to get quote data for the Company: Nissan Motor (Cars) - with the Symbol: NSANYN.MEX
+INFO - 2021-03-22 11:18:43 - Could not get any stock prices for the Company: Nissan Motor (Cars) - with the Symbol: NSANYN.MEX
+ERROR - 2021-03-22 11:18:56 - Error occured while trying to get quote data for the Company: Nissan Motor (Cars) - with the Symbol: 7222.TOK
+INFO - 2021-03-22 11:18:56 - Could not get any stock prices for the Company: Nissan Motor (Cars) - with the Symbol: 7222.TOK
+ERROR - 2021-03-22 11:19:08 - Error occured while trying to get quote data for the Company: Nissan Motor (Cars) - with the Symbol: NISA.VIE
+INFO - 2021-03-22 11:19:08 - Could not get any stock prices for the Company: Nissan Motor (Cars) - with the Symbol: NISA.VIE
+ERROR - 2021-03-22 11:19:47 - Error occured while trying to get quote data for the Company: NORDEX - with the Symbol: NDX1.HAM
+INFO - 2021-03-22 11:19:47 - Could not get any stock prices for the Company: NORDEX - with the Symbol: NDX1.HAM
+ERROR - 2021-03-22 11:19:59 - Error occured while trying to get quote data for the Company: NORDEX - with the Symbol: NDX1.BER
+INFO - 2021-03-22 11:19:59 - Could not get any stock prices for the Company: NORDEX - with the Symbol: NDX1.BER
+ERROR - 2021-03-22 11:20:12 - Error occured while trying to get quote data for the Company: NORDEX - with the Symbol: NDX1.DUS
+INFO - 2021-03-22 11:20:12 - Could not get any stock prices for the Company: NORDEX - with the Symbol: NDX1.DUS
+ERROR - 2021-03-22 11:20:24 - Error occured while trying to get quote data for the Company: NORDEX - with the Symbol: NDX1.HAN
+INFO - 2021-03-22 11:20:24 - Could not get any stock prices for the Company: NORDEX - with the Symbol: NDX1.HAN
+ERROR - 2021-03-22 11:20:37 - Error occured while trying to get quote data for the Company: NORDEX - with the Symbol: NDX1.MUN
+INFO - 2021-03-22 11:20:37 - Could not get any stock prices for the Company: NORDEX - with the Symbol: NDX1.MUN
+ERROR - 2021-03-22 11:20:50 - Error occured while trying to get quote data for the Company: NORDEX - with the Symbol: NDX1.STG
+INFO - 2021-03-22 11:20:50 - Could not get any stock prices for the Company: NORDEX - with the Symbol: NDX1.STG
+ERROR - 2021-03-22 11:21:56 - Error occured while trying to get quote data for the Company: Oshkosh Group - with the Symbol: OK3.BER
+INFO - 2021-03-22 11:21:56 - Could not get any stock prices for the Company: Oshkosh Group - with the Symbol: OK3.BER
+ERROR - 2021-03-22 11:22:08 - Error occured while trying to get quote data for the Company: Oshkosh Group - with the Symbol: OK3.STG
+INFO - 2021-03-22 11:22:08 - Could not get any stock prices for the Company: Oshkosh Group - with the Symbol: OK3.STG
+ERROR - 2021-03-22 11:22:34 - Error occured while trying to get quote data for the Company: PACCAR - with the Symbol: PAE.BER
+INFO - 2021-03-22 11:22:34 - Could not get any stock prices for the Company: PACCAR - with the Symbol: PAE.BER
+ERROR - 2021-03-22 11:22:46 - Error occured while trying to get quote data for the Company: PACCAR - with the Symbol: PAE.STG
+INFO - 2021-03-22 11:22:46 - Could not get any stock prices for the Company: PACCAR - with the Symbol: PAE.STG
+ERROR - 2021-03-22 11:23:12 - Error occured while trying to get quote data for the Company: PACCAR - with the Symbol: XS1958214964.STG
+INFO - 2021-03-22 11:23:12 - Could not get any stock prices for the Company: PACCAR - with the Symbol: XS1958214964.STG
+ERROR - 2021-03-22 11:23:25 - Error occured while trying to get quote data for the Company: PACCAR - with the Symbol: PAE.DUS
+INFO - 2021-03-22 11:23:25 - Could not get any stock prices for the Company: PACCAR - with the Symbol: PAE.DUS
+ERROR - 2021-03-22 11:23:37 - Error occured while trying to get quote data for the Company: PACCAR - with the Symbol: PAE.HAM
+INFO - 2021-03-22 11:23:37 - Could not get any stock prices for the Company: PACCAR - with the Symbol: PAE.HAM
+ERROR - 2021-03-22 11:23:50 - Error occured while trying to get quote data for the Company: PACCAR - with the Symbol: PAE.MUN
+INFO - 2021-03-22 11:23:50 - Could not get any stock prices for the Company: PACCAR - with the Symbol: PAE.MUN
+ERROR - 2021-03-22 11:24:30 - Error occured while trying to get quote data for the Company: Pirelli - with the Symbol: PIRC.MIL
+INFO - 2021-03-22 11:24:30 - Could not get any stock prices for the Company: Pirelli - with the Symbol: PIRC.MIL
+ERROR - 2021-03-22 11:24:56 - Error occured while trying to get quote data for the Company: Pirelli - with the Symbol: 2PI.BER
+INFO - 2021-03-22 11:24:56 - Could not get any stock prices for the Company: Pirelli - with the Symbol: 2PI.BER
+ERROR - 2021-03-22 11:25:09 - Error occured while trying to get quote data for the Company: Pirelli - with the Symbol: 2PI.DUS
+INFO - 2021-03-22 11:25:09 - Could not get any stock prices for the Company: Pirelli - with the Symbol: 2PI.DUS
+ERROR - 2021-03-22 11:25:22 - Error occured while trying to get quote data for the Company: Pirelli - with the Symbol: 2PI.MUN
+INFO - 2021-03-22 11:25:22 - Could not get any stock prices for the Company: Pirelli - with the Symbol: 2PI.MUN
+ERROR - 2021-03-22 11:25:34 - Error occured while trying to get quote data for the Company: Pirelli - with the Symbol: 2PI.STG
+INFO - 2021-03-22 11:25:34 - Could not get any stock prices for the Company: Pirelli - with the Symbol: 2PI.STG
+ERROR - 2021-03-22 11:25:47 - Error occured while trying to get quote data for the Company: Pirelli - with the Symbol: PC.VIE
+INFO - 2021-03-22 11:25:47 - Could not get any stock prices for the Company: Pirelli - with the Symbol: PC.VIE
+ERROR - 2021-03-22 11:25:59 - Error occured while trying to get quote data for the Company: Pirelli - with the Symbol: 0P1R.ILN
+INFO - 2021-03-22 11:25:59 - Could not get any stock prices for the Company: Pirelli - with the Symbol: 0P1R.ILN
+ERROR - 2021-03-22 11:26:25 - Error occured while trying to get quote data for the Company: Punch Industry Co. Ltd. - with the Symbol: 6165.TOK
+INFO - 2021-03-22 11:26:25 - Could not get any stock prices for the Company: Punch Industry Co. Ltd. - with the Symbol: 6165.TOK
+ERROR - 2021-03-22 11:26:37 - Error occured while trying to get quote data for the Company: Rheinmetall Group - with the Symbol: 0NI1.ILN
+INFO - 2021-03-22 11:26:37 - Could not get any stock prices for the Company: Rheinmetall Group - with the Symbol: 0NI1.ILN
+ERROR - 2021-03-22 11:27:42 - Error occured while trying to get quote data for the Company: Rheinmetall Group - with the Symbol: RHM.BER
+INFO - 2021-03-22 11:27:42 - Could not get any stock prices for the Company: Rheinmetall Group - with the Symbol: RHM.BER
+ERROR - 2021-03-22 11:27:54 - Error occured while trying to get quote data for the Company: Rheinmetall Group - with the Symbol: RHM.DUS
+INFO - 2021-03-22 11:27:54 - Could not get any stock prices for the Company: Rheinmetall Group - with the Symbol: RHM.DUS
+ERROR - 2021-03-22 11:28:07 - Error occured while trying to get quote data for the Company: Rheinmetall Group - with the Symbol: RHM.HAN
+INFO - 2021-03-22 11:28:07 - Could not get any stock prices for the Company: Rheinmetall Group - with the Symbol: RHM.HAN
+ERROR - 2021-03-22 11:28:19 - Error occured while trying to get quote data for the Company: Rheinmetall Group - with the Symbol: RHM.HAM
+INFO - 2021-03-22 11:28:19 - Could not get any stock prices for the Company: Rheinmetall Group - with the Symbol: RHM.HAM
+ERROR - 2021-03-22 11:29:38 - Error occured while trying to get quote data for the Company: Rolls-Royce Group - with the Symbol: RRU1.FRK
+INFO - 2021-03-22 11:29:38 - Could not get any stock prices for the Company: Rolls-Royce Group - with the Symbol: RRU1.FRK
+ERROR - 2021-03-22 11:30:19 - Error occured while trying to get quote data for the Company: Schaeffler Group - with the Symbol: SHA.DUS
+INFO - 2021-03-22 11:30:19 - Could not get any stock prices for the Company: Schaeffler Group - with the Symbol: SHA.DUS
+ERROR - 2021-03-22 11:30:57 - Error occured while trying to get quote data for the Company: Schaeffler Group - with the Symbol: SHA.HAN
+INFO - 2021-03-22 11:30:57 - Could not get any stock prices for the Company: Schaeffler Group - with the Symbol: SHA.HAN
+ERROR - 2021-03-22 11:31:22 - Error occured while trying to get quote data for the Company: Schaeffler Group - with the Symbol: SHA.VIE
+INFO - 2021-03-22 11:31:22 - Could not get any stock prices for the Company: Schaeffler Group - with the Symbol: SHA.VIE
+ERROR - 2021-03-22 11:31:35 - Error occured while trying to get quote data for the Company: Schaeffler Group - with the Symbol: SCHAEFFLER.BSE
+INFO - 2021-03-22 11:31:35 - Could not get any stock prices for the Company: Schaeffler Group - with the Symbol: SCHAEFFLER.BSE
+ERROR - 2021-03-22 11:31:47 - Error occured while trying to get quote data for the Company: Schaeffler Group - with the Symbol: SCHAEFFLER.NSE
+INFO - 2021-03-22 11:31:47 - Could not get any stock prices for the Company: Schaeffler Group - with the Symbol: SCHAEFFLER.NSE
+ERROR - 2021-03-22 11:32:00 - Error occured while trying to get quote data for the Company: Senvion - with the Symbol: SEN.MUN
+INFO - 2021-03-22 11:32:00 - Could not get any stock prices for the Company: Senvion - with the Symbol: SEN.MUN
+ERROR - 2021-03-22 11:32:42 - Error occured while trying to get quote data for the Company: Senvion - with the Symbol: 0RFB.LON
+INFO - 2021-03-22 11:32:42 - Could not get any stock prices for the Company: Senvion - with the Symbol: 0RFB.LON
+ERROR - 2021-03-22 11:32:55 - Error occured while trying to get quote data for the Company: Senvion - with the Symbol: SEN.BER
+INFO - 2021-03-22 11:32:55 - Could not get any stock prices for the Company: Senvion - with the Symbol: SEN.BER
+ERROR - 2021-03-22 11:33:08 - Error occured while trying to get quote data for the Company: Senvion - with the Symbol: SEN.DUS
+INFO - 2021-03-22 11:33:08 - Could not get any stock prices for the Company: Senvion - with the Symbol: SEN.DUS
+ERROR - 2021-03-22 11:33:20 - Error occured while trying to get quote data for the Company: Senvion - with the Symbol: SEN.STG
+INFO - 2021-03-22 11:33:20 - Could not get any stock prices for the Company: Senvion - with the Symbol: SEN.STG
+ERROR - 2021-03-22 11:34:13 - Error occured while trying to get quote data for the Company: Shandong Heavy Industry Group - with the Symbol: 0719.HKG
+INFO - 2021-03-22 11:34:13 - Could not get any stock prices for the Company: Shandong Heavy Industry Group - with the Symbol: 0719.HKG
+ERROR - 2021-03-22 11:36:11 - Error occured while trying to get quote data for the Company: Siemens Group - with the Symbol: SGRE.MDR
+INFO - 2021-03-22 11:36:11 - Could not get any stock prices for the Company: Siemens Group - with the Symbol: SGRE.MDR
+ERROR - 2021-03-22 11:36:50 - Error occured while trying to get quote data for the Company: Stadler - with the Symbol: 0A0C.ILN
+INFO - 2021-03-22 11:36:50 - Could not get any stock prices for the Company: Stadler - with the Symbol: 0A0C.ILN
+ERROR - 2021-03-22 11:37:03 - Error occured while trying to get quote data for the Company: Stadler - with the Symbol: SRAIL.SWI
+INFO - 2021-03-22 11:37:03 - Could not get any stock prices for the Company: Stadler - with the Symbol: SRAIL.SWI
+ERROR - 2021-03-22 11:37:15 - Error occured while trying to get quote data for the Company: Suzlon - with the Symbol: SUZLON.NSE
+INFO - 2021-03-22 11:37:15 - Could not get any stock prices for the Company: Suzlon - with the Symbol: SUZLON.NSE
+ERROR - 2021-03-22 11:37:57 - Error occured while trying to get quote data for the Company: Tadano - with the Symbol: 6395.TOK
+INFO - 2021-03-22 11:37:57 - Could not get any stock prices for the Company: Tadano - with the Symbol: 6395.TOK
+ERROR - 2021-03-22 11:38:10 - Error occured while trying to get quote data for the Company: Tadano - with the Symbol: TN0.STG
+INFO - 2021-03-22 11:38:10 - Could not get any stock prices for the Company: Tadano - with the Symbol: TN0.STG
+ERROR - 2021-03-22 11:38:22 - Error occured while trying to get quote data for the Company: Tadano - with the Symbol: TN0.BER
+INFO - 2021-03-22 11:38:22 - Could not get any stock prices for the Company: Tadano - with the Symbol: TN0.BER
+ERROR - 2021-03-22 11:39:01 - Error occured while trying to get quote data for the Company: Tennant Company - with the Symbol: TN1.BER
+INFO - 2021-03-22 11:39:01 - Could not get any stock prices for the Company: Tennant Company - with the Symbol: TN1.BER
+ERROR - 2021-03-22 11:39:42 - Error occured while trying to get quote data for the Company: Terex Group - with the Symbol: TXG.MUN
+INFO - 2021-03-22 11:39:42 - Could not get any stock prices for the Company: Terex Group - with the Symbol: TXG.MUN
+ERROR - 2021-03-22 11:40:09 - Error occured while trying to get quote data for the Company: Terex Group - with the Symbol: TXG.BER
+INFO - 2021-03-22 11:40:09 - Could not get any stock prices for the Company: Terex Group - with the Symbol: TXG.BER
+ERROR - 2021-03-22 11:40:21 - Error occured while trying to get quote data for the Company: Terex Group - with the Symbol: TXG.STG
+INFO - 2021-03-22 11:40:21 - Could not get any stock prices for the Company: Terex Group - with the Symbol: TXG.STG
+ERROR - 2021-03-22 11:40:34 - Error occured while trying to get quote data for the Company: ThyssenKrupp Group - with the Symbol: TKA.STG
+INFO - 2021-03-22 11:40:34 - Could not get any stock prices for the Company: ThyssenKrupp Group - with the Symbol: TKA.STG
+ERROR - 2021-03-22 11:41:26 - Error occured while trying to get quote data for the Company: ThyssenKrupp Group - with the Symbol: 0O1C.ILN
+INFO - 2021-03-22 11:41:26 - Could not get any stock prices for the Company: ThyssenKrupp Group - with the Symbol: 0O1C.ILN
+ERROR - 2021-03-22 11:41:38 - Error occured while trying to get quote data for the Company: ThyssenKrupp Group - with the Symbol: TKA.BER
+INFO - 2021-03-22 11:41:38 - Could not get any stock prices for the Company: ThyssenKrupp Group - with the Symbol: TKA.BER
+ERROR - 2021-03-22 11:41:51 - Error occured while trying to get quote data for the Company: ThyssenKrupp Group - with the Symbol: TKA.HAN
+INFO - 2021-03-22 11:41:51 - Could not get any stock prices for the Company: ThyssenKrupp Group - with the Symbol: TKA.HAN
+ERROR - 2021-03-22 11:42:21 - Error occured while trying to get quote data for the Company: Toyo Denki - with the Symbol: 6505.TOK
+INFO - 2021-03-22 11:42:21 - Could not get any stock prices for the Company: Toyo Denki - with the Symbol: 6505.TOK
+ERROR - 2021-03-22 11:43:27 - Error occured while trying to get quote data for the Company: Toyota Group - with the Symbol: 7203.TOK
+INFO - 2021-03-22 11:43:27 - Could not get any stock prices for the Company: Toyota Group - with the Symbol: 7203.TOK
+ERROR - 2021-03-22 11:43:40 - Error occured while trying to get quote data for the Company: Toyota Group - with the Symbol: 6201.TOK
+INFO - 2021-03-22 11:43:40 - Could not get any stock prices for the Company: Toyota Group - with the Symbol: 6201.TOK
+ERROR - 2021-03-22 11:43:53 - Error occured while trying to get quote data for the Company: Toyota Group - with the Symbol: 9TO.STG
+INFO - 2021-03-22 11:43:53 - Could not get any stock prices for the Company: Toyota Group - with the Symbol: 9TO.STG
+ERROR - 2021-03-22 11:44:11 - Error occured while trying to get quote data for the Company: Toyota Group - with the Symbol: TYT.LON
+INFO - 2021-03-22 11:44:11 - Could not get any stock prices for the Company: Toyota Group - with the Symbol: TYT.LON
+ERROR - 2021-03-22 11:44:24 - Error occured while trying to get quote data for the Company: Toyota Group - with the Symbol: TOM.DUS
+INFO - 2021-03-22 11:44:24 - Could not get any stock prices for the Company: Toyota Group - with the Symbol: TOM.DUS
+ERROR - 2021-03-22 11:46:04 - Error occured while trying to get quote data for the Company: Valeo - with the Symbol: VSA2.BER
+INFO - 2021-03-22 11:46:04 - Could not get any stock prices for the Company: Valeo - with the Symbol: VSA2.BER
+ERROR - 2021-03-22 11:46:17 - Error occured while trying to get quote data for the Company: Valeo - with the Symbol: VSA2.DUS
+INFO - 2021-03-22 11:46:17 - Could not get any stock prices for the Company: Valeo - with the Symbol: VSA2.DUS
+ERROR - 2021-03-22 11:46:30 - Error occured while trying to get quote data for the Company: Valeo - with the Symbol: VSA2.MUN
+INFO - 2021-03-22 11:46:30 - Could not get any stock prices for the Company: Valeo - with the Symbol: VSA2.MUN
+ERROR - 2021-03-22 11:46:42 - Error occured while trying to get quote data for the Company: Valeo - with the Symbol: 0RH5.ILN
+INFO - 2021-03-22 11:46:42 - Could not get any stock prices for the Company: Valeo - with the Symbol: 0RH5.ILN
+ERROR - 2021-03-22 11:46:55 - Error occured while trying to get quote data for the Company: Valeo - with the Symbol: VPHIF
+INFO - 2021-03-22 11:46:55 - Could not get any stock prices for the Company: Valeo - with the Symbol: VPHIF
+ERROR - 2021-03-22 11:47:08 - Error occured while trying to get quote data for the Company: Vestas - with the Symbol: VWDRY
+INFO - 2021-03-22 11:47:08 - Could not get any stock prices for the Company: Vestas - with the Symbol: VWDRY
+ERROR - 2021-03-22 11:47:21 - Error occured while trying to get quote data for the Company: Vestas - with the Symbol: VWSYF
+INFO - 2021-03-22 11:47:21 - Could not get any stock prices for the Company: Vestas - with the Symbol: VWSYF
+ERROR - 2021-03-22 11:47:33 - Error occured while trying to get quote data for the Company: Vestas - with the Symbol: VWS.DEX
+INFO - 2021-03-22 11:47:33 - Could not get any stock prices for the Company: Vestas - with the Symbol: VWS.DEX
+ERROR - 2021-03-22 11:47:46 - Error occured while trying to get quote data for the Company: Vestas - with the Symbol: VWS.FRK
+INFO - 2021-03-22 11:47:46 - Could not get any stock prices for the Company: Vestas - with the Symbol: VWS.FRK
+ERROR - 2021-03-22 11:47:59 - Error occured while trying to get quote data for the Company: Vestas - with the Symbol: VWS.STG
+INFO - 2021-03-22 11:47:59 - Could not get any stock prices for the Company: Vestas - with the Symbol: VWS.STG
+ERROR - 2021-03-22 11:48:12 - Error occured while trying to get quote data for the Company: Vestas - with the Symbol: VWSA.STG
+INFO - 2021-03-22 11:48:12 - Could not get any stock prices for the Company: Vestas - with the Symbol: VWSA.STG
+ERROR - 2021-03-22 11:48:24 - Error occured while trying to get quote data for the Company: Vestas - with the Symbol: VWSA.DEX
+INFO - 2021-03-22 11:48:24 - Could not get any stock prices for the Company: Vestas - with the Symbol: VWSA.DEX
+ERROR - 2021-03-22 11:48:37 - Error occured while trying to get quote data for the Company: Vestas - with the Symbol: VWSA.FRK
+INFO - 2021-03-22 11:48:37 - Could not get any stock prices for the Company: Vestas - with the Symbol: VWSA.FRK
+ERROR - 2021-03-22 11:48:49 - Error occured while trying to get quote data for the Company: Vestas - with the Symbol: VWS.VIE
+INFO - 2021-03-22 11:48:49 - Could not get any stock prices for the Company: Vestas - with the Symbol: VWS.VIE
+ERROR - 2021-03-22 11:49:02 - Error occured while trying to get quote data for the Company: Volkswagen - with the Symbol: VOW3.HAM
+INFO - 2021-03-22 11:49:02 - Could not get any stock prices for the Company: Volkswagen - with the Symbol: VOW3.HAM
+ERROR - 2021-03-22 11:49:15 - Error occured while trying to get quote data for the Company: Volkswagen - with the Symbol: VWAGY
+INFO - 2021-03-22 11:49:15 - Could not get any stock prices for the Company: Volkswagen - with the Symbol: VWAGY
+ERROR - 2021-03-22 11:49:27 - Error occured while trying to get quote data for the Company: Volkswagen - with the Symbol: VLKAF
+INFO - 2021-03-22 11:49:27 - Could not get any stock prices for the Company: Volkswagen - with the Symbol: VLKAF
+ERROR - 2021-03-22 11:49:40 - Error occured while trying to get quote data for the Company: Volkswagen - with the Symbol: VWAPY
+INFO - 2021-03-22 11:49:40 - Could not get any stock prices for the Company: Volkswagen - with the Symbol: VWAPY
+ERROR - 2021-03-22 11:49:53 - Error occured while trying to get quote data for the Company: Volkswagen - with the Symbol: VLKPF
+INFO - 2021-03-22 11:49:53 - Could not get any stock prices for the Company: Volkswagen - with the Symbol: VLKPF
+ERROR - 2021-03-22 11:50:05 - Error occured while trying to get quote data for the Company: Volkswagen - with the Symbol: VOW3.DEX
+INFO - 2021-03-22 11:50:05 - Could not get any stock prices for the Company: Volkswagen - with the Symbol: VOW3.DEX
+ERROR - 2021-03-22 11:50:18 - Error occured while trying to get quote data for the Company: Volkswagen - with the Symbol: VOW.DEX
+INFO - 2021-03-22 11:50:18 - Could not get any stock prices for the Company: Volkswagen - with the Symbol: VOW.DEX
+ERROR - 2021-03-22 11:50:31 - Error occured while trying to get quote data for the Company: Volkswagen - with the Symbol: VOW.FRK
+INFO - 2021-03-22 11:50:31 - Could not get any stock prices for the Company: Volkswagen - with the Symbol: VOW.FRK
+ERROR - 2021-03-22 11:50:43 - Error occured while trying to get quote data for the Company: Volkswagen - with the Symbol: VOWA.FRK
+INFO - 2021-03-22 11:50:43 - Could not get any stock prices for the Company: Volkswagen - with the Symbol: VOWA.FRK
+ERROR - 2021-03-22 11:50:56 - Error occured while trying to get quote data for the Company: Volkswagen - with the Symbol: VLKAY
+INFO - 2021-03-22 11:50:56 - Could not get any stock prices for the Company: Volkswagen - with the Symbol: VLKAY
+ERROR - 2021-03-22 11:51:09 - Error occured while trying to get quote data for the Company: Volkswagen - with the Symbol: VLKPY
+INFO - 2021-03-22 11:51:09 - Could not get any stock prices for the Company: Volkswagen - with the Symbol: VLKPY
+ERROR - 2021-03-22 11:51:21 - Error occured while trying to get quote data for the Company: Volkswagen - with the Symbol: VOW3.FRK
+INFO - 2021-03-22 11:51:21 - Could not get any stock prices for the Company: Volkswagen - with the Symbol: VOW3.FRK
+ERROR - 2021-03-22 11:51:34 - Error occured while trying to get quote data for the Company: Volvo Group - with the Symbol: VLVLY
+INFO - 2021-03-22 11:51:34 - Could not get any stock prices for the Company: Volvo Group - with the Symbol: VLVLY
+ERROR - 2021-03-22 11:51:47 - Error occured while trying to get quote data for the Company: Volvo Group - with the Symbol: VOLVF
+INFO - 2021-03-22 11:51:47 - Could not get any stock prices for the Company: Volvo Group - with the Symbol: VOLVF
+ERROR - 2021-03-22 11:51:59 - Error occured while trying to get quote data for the Company: Volvo Group - with the Symbol: VOLAF
+INFO - 2021-03-22 11:51:59 - Could not get any stock prices for the Company: Volvo Group - with the Symbol: VOLAF
+ERROR - 2021-03-22 11:52:12 - Error occured while trying to get quote data for the Company: Volvo Group - with the Symbol: VOL1.DUS
+INFO - 2021-03-22 11:52:12 - Could not get any stock prices for the Company: Volvo Group - with the Symbol: VOL1.DUS
+ERROR - 2021-03-22 11:52:25 - Error occured while trying to get quote data for the Company: Volvo Group - with the Symbol: VOL4.FRK
+INFO - 2021-03-22 11:52:25 - Could not get any stock prices for the Company: Volvo Group - with the Symbol: VOL4.FRK
+ERROR - 2021-03-22 11:52:37 - Error occured while trying to get quote data for the Company: Volvo Group - with the Symbol: 0HTP.ILN
+INFO - 2021-03-22 11:52:37 - Could not get any stock prices for the Company: Volvo Group - with the Symbol: 0HTP.ILN
+ERROR - 2021-03-22 11:52:50 - Error occured while trying to get quote data for the Company: Vossloh - with the Symbol: VOS.BER
+INFO - 2021-03-22 11:52:50 - Could not get any stock prices for the Company: Vossloh - with the Symbol: VOS.BER
+ERROR - 2021-03-22 11:53:03 - Error occured while trying to get quote data for the Company: Vossloh - with the Symbol: VOSSF
+INFO - 2021-03-22 11:53:03 - Could not get any stock prices for the Company: Vossloh - with the Symbol: VOSSF
+ERROR - 2021-03-22 11:53:15 - Error occured while trying to get quote data for the Company: Vossloh - with the Symbol: VOS.DEX
+INFO - 2021-03-22 11:53:15 - Could not get any stock prices for the Company: Vossloh - with the Symbol: VOS.DEX
+ERROR - 2021-03-22 11:53:28 - Error occured while trying to get quote data for the Company: Vossloh - with the Symbol: VOS.FRK
+INFO - 2021-03-22 11:53:28 - Could not get any stock prices for the Company: Vossloh - with the Symbol: VOS.FRK
+ERROR - 2021-03-22 11:53:41 - Error occured while trying to get quote data for the Company: Vossloh - with the Symbol: VOS.VIE
+INFO - 2021-03-22 11:53:41 - Could not get any stock prices for the Company: Vossloh - with the Symbol: VOS.VIE
+ERROR - 2021-03-22 11:53:53 - Error occured while trying to get quote data for the Company: Vossloh - with the Symbol: VOS.DUS
+INFO - 2021-03-22 11:53:53 - Could not get any stock prices for the Company: Vossloh - with the Symbol: VOS.DUS
+ERROR - 2021-03-22 11:54:06 - Error occured while trying to get quote data for the Company: Vossloh - with the Symbol: VOS.HAN
+INFO - 2021-03-22 11:54:06 - Could not get any stock prices for the Company: Vossloh - with the Symbol: VOS.HAN
+ERROR - 2021-03-22 11:54:19 - Error occured while trying to get quote data for the Company: Vossloh - with the Symbol: VOS.HAM
+INFO - 2021-03-22 11:54:19 - Could not get any stock prices for the Company: Vossloh - with the Symbol: VOS.HAM
+ERROR - 2021-03-22 11:54:31 - Error occured while trying to get quote data for the Company: Vossloh - with the Symbol: VOS.MUN
+INFO - 2021-03-22 11:54:31 - Could not get any stock prices for the Company: Vossloh - with the Symbol: VOS.MUN
+ERROR - 2021-03-22 11:54:44 - Error occured while trying to get quote data for the Company: Vossloh - with the Symbol: VOSSY
+INFO - 2021-03-22 11:54:44 - Could not get any stock prices for the Company: Vossloh - with the Symbol: VOSSY
+ERROR - 2021-03-22 11:54:56 - Error occured while trying to get quote data for the Company: Wacker Neuson Group - with the Symbol: WKRCF
+INFO - 2021-03-22 11:54:56 - Could not get any stock prices for the Company: Wacker Neuson Group - with the Symbol: WKRCF
+ERROR - 2021-03-22 11:55:09 - Error occured while trying to get quote data for the Company: Wacker Neuson Group - with the Symbol: WKCMF
+INFO - 2021-03-22 11:55:09 - Could not get any stock prices for the Company: Wacker Neuson Group - with the Symbol: WKCMF
+ERROR - 2021-03-22 11:55:21 - Error occured while trying to get quote data for the Company: Wacker Neuson Group - with the Symbol: WAC.DEX
+INFO - 2021-03-22 11:55:21 - Could not get any stock prices for the Company: Wacker Neuson Group - with the Symbol: WAC.DEX
+ERROR - 2021-03-22 11:55:34 - Error occured while trying to get quote data for the Company: Wacker Neuson Group - with the Symbol: WCH.DEX
+INFO - 2021-03-22 11:55:34 - Could not get any stock prices for the Company: Wacker Neuson Group - with the Symbol: WCH.DEX
+ERROR - 2021-03-22 11:55:47 - Error occured while trying to get quote data for the Company: Wacker Neuson Group - with the Symbol: WAC.VIE
+INFO - 2021-03-22 11:55:47 - Could not get any stock prices for the Company: Wacker Neuson Group - with the Symbol: WAC.VIE
+ERROR - 2021-03-22 11:55:59 - Error occured while trying to get quote data for the Company: Wacker Neuson Group - with the Symbol: WCH.STG
+INFO - 2021-03-22 11:55:59 - Could not get any stock prices for the Company: Wacker Neuson Group - with the Symbol: WCH.STG
+ERROR - 2021-03-22 11:56:11 - Error occured while trying to get quote data for the Company: Wacker Neuson Group - with the Symbol: WAC.STG
+INFO - 2021-03-22 11:56:12 - Could not get any stock prices for the Company: Wacker Neuson Group - with the Symbol: WAC.STG
+ERROR - 2021-03-22 11:56:24 - Error occured while trying to get quote data for the Company: Wacker Neuson Group - with the Symbol: WAC.MUN
+INFO - 2021-03-22 11:56:24 - Could not get any stock prices for the Company: Wacker Neuson Group - with the Symbol: WAC.MUN
+ERROR - 2021-03-22 11:56:37 - Error occured while trying to get quote data for the Company: Wacker Neuson Group - with the Symbol: WAC.HAM
+INFO - 2021-03-22 11:56:37 - Could not get any stock prices for the Company: Wacker Neuson Group - with the Symbol: WAC.HAM
+ERROR - 2021-03-22 11:56:49 - Error occured while trying to get quote data for the Company: Wacker Neuson Group - with the Symbol: WAC.HAN
+INFO - 2021-03-22 11:56:49 - Could not get any stock prices for the Company: Wacker Neuson Group - with the Symbol: WAC.HAN
+ERROR - 2021-03-22 11:57:02 - Error occured while trying to get quote data for the Company: Yamaha - with the Symbol: YAMCY
+INFO - 2021-03-22 11:57:02 - Could not get any stock prices for the Company: Yamaha - with the Symbol: YAMCY
+ERROR - 2021-03-22 11:57:15 - Error occured while trying to get quote data for the Company: Yamaha - with the Symbol: YAMHF
+INFO - 2021-03-22 11:57:15 - Could not get any stock prices for the Company: Yamaha - with the Symbol: YAMHF
+ERROR - 2021-03-22 11:57:27 - Error occured while trying to get quote data for the Company: Yamaha - with the Symbol: YAMCF
+INFO - 2021-03-22 11:57:27 - Could not get any stock prices for the Company: Yamaha - with the Symbol: YAMCF
+ERROR - 2021-03-22 11:57:40 - Error occured while trying to get quote data for the Company: Yamaha - with the Symbol: 7272.TOK
+INFO - 2021-03-22 11:57:40 - Could not get any stock prices for the Company: Yamaha - with the Symbol: 7272.TOK
+ERROR - 2021-03-22 11:57:52 - Error occured while trying to get quote data for the Company: Yamaha - with the Symbol: 6274.TOK
+INFO - 2021-03-22 11:57:52 - Could not get any stock prices for the Company: Yamaha - with the Symbol: 6274.TOK
+ERROR - 2021-03-22 11:58:05 - Error occured while trying to get quote data for the Company: Yamaha - with the Symbol: 7951.TOK
+INFO - 2021-03-22 11:58:05 - Could not get any stock prices for the Company: Yamaha - with the Symbol: 7951.TOK
+ERROR - 2021-03-22 11:58:18 - Error occured while trying to get quote data for the Company: Yamaha - with the Symbol: YMA.FRK
+INFO - 2021-03-22 11:58:18 - Could not get any stock prices for the Company: Yamaha - with the Symbol: YMA.FRK
+ERROR - 2021-03-22 11:58:30 - Error occured while trying to get quote data for the Company: Yamaha - with the Symbol: YHA.FRK
+INFO - 2021-03-22 11:58:30 - Could not get any stock prices for the Company: Yamaha - with the Symbol: YHA.FRK
+ERROR - 2021-03-22 11:58:43 - Error occured while trying to get quote data for the Company: Yamaha - with the Symbol: YAMHY
+INFO - 2021-03-22 11:58:43 - Could not get any stock prices for the Company: Yamaha - with the Symbol: YAMHY
+ERROR - 2021-03-22 11:58:55 - Error occured while trying to get quote data for the Company: Zoomlion - with the Symbol: ZLIOF
+INFO - 2021-03-22 11:58:55 - Could not get any stock prices for the Company: Zoomlion - with the Symbol: ZLIOF
+ERROR - 2021-03-22 11:59:08 - Error occured while trying to get quote data for the Company: Zoomlion - with the Symbol: ZLIOY
+INFO - 2021-03-22 11:59:08 - Could not get any stock prices for the Company: Zoomlion - with the Symbol: ZLIOY
+ERROR - 2021-03-22 11:59:21 - Error occured while trying to get quote data for the Company: Zoomlion - with the Symbol: 8CZ.FRK
+INFO - 2021-03-22 11:59:21 - Could not get any stock prices for the Company: Zoomlion - with the Symbol: 8CZ.FRK
+ERROR - 2021-03-22 11:59:33 - Error occured while trying to get quote data for the Company: Zoomlion - with the Symbol: 1157.HKG
+INFO - 2021-03-22 11:59:33 - Could not get any stock prices for the Company: Zoomlion - with the Symbol: 1157.HKG
+INFO - 2021-03-22 11:59:45 - Finished collecting all stock prices.
