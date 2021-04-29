@@ -1,0 +1,6 @@
+logging==0.4.9
+urllib3==1.26.3
+pandas==1.2.3
+numpy==1.20.1
+python-dotenv==0.15.0
+flask==1.1.2
