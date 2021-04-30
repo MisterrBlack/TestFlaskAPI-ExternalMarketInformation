@@ -15,15 +15,15 @@ import get_articles_eventRegistry
 import get_stock_prices
 
 # initialize Flask-app
-app = Flask(__name__)
-# app.config["DEBUG"] = True  # for Debugging and Development
+application = Flask(__name__)
+# application.config["DEBUG"] = True  # for Debugging and Development
 
 
-@app.route('/', methods=['GET'])
+@application.route('/', methods=['GET'])
 def home():
     return "API to get external market information."
 
-@app.route('/api/v1/quotes', methods=['GET'])
+@application.route('/api/v1/quotes', methods=['GET'])
 def get_quotes():
     # get all stock prices from clients
     results = get_stock_prices.get_stock_prices_from_file()
@@ -32,7 +32,7 @@ def get_quotes():
     # Python dataframe to the JSON format.
     return make_response(results.to_json(orient="records"), 200)
 
-@app.route('/api/v1/quotes', methods=['POST'])
+@application.route('/api/v1/quotes', methods=['POST'])
 def post_quotes():
     # call stock api and get all information of clients stock prices 
     results = get_stock_prices.get_new_stock_prices_from_api()
@@ -41,7 +41,7 @@ def post_quotes():
     # Python dataframe to the JSON format.
     return make_response(results.to_json(orient="records"), 201)
 
-@app.route('/api/v1/news', methods=['GET'])
+@application.route('/api/v1/news', methods=['GET'])
 def get_news():
     # get all existing news
     results = get_articles_eventRegistry.get_articles_from_file()
@@ -50,7 +50,7 @@ def get_news():
     # Python dataframe to the JSON format.
     return make_response(results.to_json(orient="records"), 200)
 
-@app.route('/api/v1/news', methods=['POST'])
+@application.route('/api/v1/news', methods=['POST'])
 def post_news():
     # call news api and get all information regarding the keywords and customers. 
     results = get_articles_eventRegistry.get_new_articles_from_eventRegistry()
@@ -59,11 +59,11 @@ def post_news():
     # Python dataframe to the JSON format.
     return make_response(results.to_json(orient="records"), 201)
 
-@app.errorhandler(404)
+@application.errorhandler(404)
 def not_found(error):
     return make_response(jsonify({'error': 'Not found'}), 404)
 
 
 if __name__ == "__main__":
-    app.run()
+    application.run()
 
